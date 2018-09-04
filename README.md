@@ -1,2 +1,7 @@
-# python-2.5.2
-# This is a source study project fo myself
+# python-2.5.2 源码
+
+学习 <<Python 源码解读>> 时对应的源码版本   
+
+使用纯 C 语言实现.  
+
+非常值得研究
